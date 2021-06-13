@@ -46,7 +46,7 @@
 <h3>Diodes direction</h3>
 <img src="https://user-images.githubusercontent.com/85400245/121809760-aa553580-cc90-11eb-9110-a874be3b5501.jpg" width="600"></img>
 <br>
-<h3>RGB LED direction><h3>
+<h3>RGB LED direction<h3>
 <img src="https://user-images.githubusercontent.com/85400245/121810140-361b9180-cc92-11eb-9a19-97192be1b37a.jpg" width="600"></img>
 <h3>Reset switch direction</h3>
 <p>The reset switch can be soldered in any direction</p>
