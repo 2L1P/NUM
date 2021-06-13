@@ -53,6 +53,6 @@
 <img src="https://user-images.githubusercontent.com/85400245/121810244-a5918100-cc92-11eb-9e1b-6a6a36142e31.jpg" width="600"></img>
 <br>
 <h3>ProMicro direction</h3>
-<p>The face with the chip should be faced downward</p>
+<p>The side with the chip should be faced downward</p>
 <br>
 <p>Congratulations! You have finished reading the whole build guide for the your NUM numpad! It is my pleasure to be in this journey with all of you! Hope you enjoy your numpad!</p>
